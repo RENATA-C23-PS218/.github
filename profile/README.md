@@ -2,7 +2,7 @@ RENATA (Rekomendasi Tumbuhan dan Tanah) is an application to provide recommendat
 
 ## Our Members
 | Student ID | Name | Learning Path |
-| --- | --- |
+| --- | --- | --- | --- |
 | M151DSY3273 | Indah Sitoresmi Hardyningseti | Machine Learning |
 | M322DSX2541 | Sinaga, Yohanes Fransisko | Machine Learning |
 | C368DSX3066 | Gede Rico Wijaya | Cloud Computing |
